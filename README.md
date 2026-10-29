@@ -27,8 +27,8 @@
 <h2>What moves the work</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=isouravcodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182782842%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CSolidity%3A%3AIn%20the%20build%20queue%7CHTML%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=isouravcodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182782842%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CSolidity%3A%3AIn%20the%20build%20queue%7CHTML%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Sourav Pratim Kashayp animated profile highlights" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=isouravcodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182782842%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CReact-Native%3A%3AIn%20the%20build%20queue%7CHTML%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=isouravcodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182782842%3Fv%3D4&items=Python%3A%3ACurrent%20focus%7CReact-Native%3A%3AIn%20the%20build%20queue%7CHTML%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Sourav Pratim Kashayp animated profile highlights" />
 </picture>
 
 <p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
@@ -63,7 +63,7 @@
 <td width="25%" valign="top"><p><strong><a href="https://github.com/Isouravcodes/git-github">git-github</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
 <td width="25%" valign="top"><p><strong><a href="https://github.com/Isouravcodes/Isouravcodes">Isouravcodes</a></strong></p><p>my personal repo</p><p><sub>Open source · ⭐ 0</sub></p></td>
 <td width="25%" valign="top"><p><strong><a href="https://github.com/Isouravcodes/Data-Analyst-Agent">Data-Analyst-Agent</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Isouravcodes/Multi-signature-wallet-for-team-fund-management">Multi-signature-wallet-for-team-fund-management</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Solidity · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Isouravcodes/Multi-signature-wallet-for-team-fund-management">Multi-signature-wallet-for-team-fund-management</a></strong></p><p>A selected project from this public body of work.</p><p><sub>React-Native · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
