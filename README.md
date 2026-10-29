@@ -17,7 +17,7 @@
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `Python` · `Solidity` · `HTML`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `Python` · `React-Native` · `HTML`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
 <td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>4</strong> repos<br /><strong>0</strong> stars<br /><strong>27</strong> contributions<br /><strong>6</strong> followers</p></td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
   <img src="https://www.gitskins.com/api/section/stack?username=isouravcodes&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F182782842%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Sourav Pratim Kashayp animated technology stack" />
 </picture>
 
-<p align="center"><sub>Python · Solidity · HTML · chosen for the work, not the trend</sub></p>
+<p align="center"><sub>Python · React-Native · HTML · chosen for the work, not the trend</sub></p>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
